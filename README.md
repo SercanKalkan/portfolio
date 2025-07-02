@@ -1,6 +1,6 @@
 # 🚀 Kişisel Portfolio Web Sitesi
 
-Merhaba! Benim adım [Sercan] ve bu repo, kişisel portfolyo web sitemin kaynak kodlarını içeriyor.  
+Merhaba! Benim kişisel portfolyo web sitemin kaynak kodlarını içeriyor.  
 Modern, sade ve etkileyici bir tasarımla; hem teknik yeteneklerimi hem de yaratıcı işlerimi sergilemek için hazırlandı.
 
 ## 🌐 Canlı Demo
