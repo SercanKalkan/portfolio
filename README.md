@@ -12,8 +12,7 @@ Modern, sade ve etkileyici bir tasarımla; hem teknik yeteneklerimi hem de yarat
 - ⚡️ Hızlı, responsive ve mobil uyumlu tasarım  
 - 💼 Proje ve yetenek tanıtım bölümleri  
 - 🎨 Grafik tasarım ve video düzenleme portfolyosu  
-- 🌍 Sosyal medya bağlantıları ve iletişim formu  
-- 🔐 Temel güvenlik önlemleriyle desteklenmiş yapı
+- 🌍 Sosyal medya bağlantıları
 
 ## 🛠️ Kullanılan Teknolojiler
 
